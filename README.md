@@ -33,6 +33,7 @@
   - 3-1.惡意程式防護與弱點管理
   - 3-2.資料安全及備份管理
   - 3-3.日誌管理
+    - [NIST SP 800-92 Guide to Computer Security Log Management ](https://csrc.nist.gov/publications/detail/sp/800-92/final)
   - 3.4.資安防護技術
 - T4.新興科技安全
   - 4-1.雲端安全概論
