@@ -59,13 +59,19 @@
   - 3.5.Security Assessment and Testing 安全評估與測試
     - CISSP Domain 7:Security Assessment and Testing 安全評估與測試
     - SPLUS_3:Performing Security Assessments (執行安全評估) 
+  - ˇ3.6.Incident Response and Digital Forensics(IRDF) 
+    - SPLUS_17:Performing Incident Response (執行事故回應)
+    - SPLUS_18:Explaining Digital Forensics (解釋數位鑑識)
 - T4.新興科技安全
   - 4-1.雲端安全概論
     - SPLUS_15:Implementing Secure Cloud Solutions (實施安全雲端解決方案)
   - 4-2.行動裝置安全概論
     - SPLUS_13:Implementing Secure Mobile Solutions (實施安全行動解決方案)
   - 4-3.物聯網安全概論
-   
+ 
+ ## 其他主題
+- SPLUS_20:Implementing Cybersecurity Resilience (實施網路安全彈性)
+- SPLUS_21:Explaining Physical Security (解釋實體安全)
   
 
 
