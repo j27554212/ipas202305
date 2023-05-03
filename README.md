@@ -11,10 +11,10 @@
   - 2-1.資產分類分級與盤點
     - CISSP Domain 2:Information Asset Security 資訊資產安全  
   - 2-2.風險評鑑與風險處理
-    - 資通系統風險評鑑參考指引(修訂)v4.1_1101231 
+    - 共通規範|資通系統風險評鑑參考指引(修訂)v4.1_1101231 
 - M3. 存取控制、加解密與金鑰管理
   - 3-1.存取控制與身份認證
-    - 身分鑑別與存取控制參考指引v2.0_1111231 
+    - 共通規範|身分鑑別與存取控制參考指引v2.0_1111231 
     - CISSP Domain 3:Identity and Access Management (IAM) 身份識別與存取管理
     - SPLUS_7:Implementing Authentication Controls (實施驗證控制)
     - SPLUS_8:Implementing Identity and Account Management Controls (實施身份和帳戶管理控制)
@@ -24,9 +24,11 @@
     - SPLUS_6:Implementing Public Key Infrastructure (實施公開金鑰基礎結構)
 - M4. 事故管理與營運持續
   - 4-1.事件與事故管理
-  - 4-2.備援
+  - 4-2.備份與備援
+    - 共通規範|安全控制措施參考指引v4.0_1110131
+    - 共通規範|資通系統防護基準驗證實務(V1.1)_1110928 
   - 4-3.營運持續
-    - 營運持續管理參考指引v2.0_1111231 
+    - 共通規範|營運持續管理參考指引v2.0_1111231 
     - [NIST SP 800-34, Revision 1, Contingency Planning Guide for Federal Information Systems]()
 
 ## 資訊安全技術概論 == > CEH + Security+ (Network+)  == > OSCP | CHFI
@@ -44,7 +46,7 @@
   - 2-3.程式與開發安全
     - 2-3-1.程式安全
     - 2-3-2.開發安全  SSDLC ==> CSSLP
-      - 安全軟體發展流程指引v1.0_1030630 
+      - 共通規範|安全軟體發展流程指引v1.0_1030630 
       - CISSP Domain 6:Software Development Security 軟體開發安全
       - Summarizing Secure Application Concepts (安全應用程式概念)
 - T3.資安維運技術
@@ -54,7 +56,7 @@
   - 3-2.資料安全及備份管理
     - SPLUS_16:Explaining Data Privacy and Protection Concepts (解釋資料隱私和保護概念) 
   - 3-3.日誌管理
-    - [NIST SP 800-92 Guide to Computer Security Log Management ](https://csrc.nist.gov/publications/detail/sp/800-92/final)
+    - [NIST SP 800-92 Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
   - 3.4.資安防護技術
   - 3.5.Security Assessment and Testing 安全評估與測試
     - CISSP Domain 7:Security Assessment and Testing 安全評估與測試
@@ -72,6 +74,6 @@
  ## 其他主題
 - SPLUS_20:Implementing Cybersecurity Resilience (實施網路安全彈性)
 - SPLUS_21:Explaining Physical Security (解釋實體安全)
-  
+- [ISO 27005](https://www.scribd.com/document/634149413/ISO-IEC-27005-2022-en#)
 
 
