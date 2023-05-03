@@ -1,4 +1,6 @@
 # 資訊安全管理 == > ISO 27001:2022  +  CISSP ==> CSSLP
+- 共通規範|安全控制措施參考指引v4.0_1110131
+- 共通規範|資通系統防護基準驗證實務(V1.1)_1110928 
 - M1. 資訊安全管理 
   - CISSP Domain 1:The Information Security Environment 資訊安全環境 
   - 1-1.資訊安全管理基本概念
@@ -7,6 +9,7 @@
   - 1-4.隱私權保護與智慧財產權
     - [The NIST Privacy Framework: A Tool for Improving Privacy through Enterprise Risk Management](https://www.nist.gov/privacy-framework/privacy-framework)
     - SPLUS_18:Explaining Data Privacy and Protection Concepts (解釋資料隱私和保護概念)
+    - 共通規範|個人資料保護參考指引v2.0_1051107
 - M2. 資產與風險管理
   - 2-1.資產分類分級與盤點
     - CISSP Domain 2:Information Asset Security 資訊資產安全  
@@ -25,8 +28,6 @@
 - M4. 事故管理與營運持續
   - 4-1.事件與事故管理
   - 4-2.備份與備援
-    - 共通規範|安全控制措施參考指引v4.0_1110131
-    - 共通規範|資通系統防護基準驗證實務(V1.1)_1110928 
   - 4-3.營運持續
     - 共通規範|營運持續管理參考指引v2.0_1111231 
     - [NIST SP 800-34, Revision 1, Contingency Planning Guide for Federal Information Systems]()
@@ -55,6 +56,8 @@
     - SPLUS_4:Identifying Social Engineering and Malware (識別社交工程學和惡意程式) 
   - 3-2.資料安全及備份管理
     - SPLUS_16:Explaining Data Privacy and Protection Concepts (解釋資料隱私和保護概念) 
+    - 共通規範|電子資料保護參考指引(修訂)v2.1_1101231
+    - 共通規範|個人資料保護參考指引v2.0_1051107
   - 3-3.日誌管理
     - [NIST SP 800-92 Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
   - 3.4.資安防護技術
