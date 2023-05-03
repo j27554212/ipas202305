@@ -4,6 +4,7 @@
   - 1-2.資訊安全管理系統  == > ISO 27001:2022
   - 1-3.相關法規概論與遵循
   - 1-4.隱私權保護與智慧財產權
+    - [The NIST Privacy Framework: A Tool for Improving Privacy through Enterprise Risk Management](https://www.nist.gov/privacy-framework/privacy-framework)
 - M2. 資產與風險管理
   - 2-1.資產分類分級與盤點
   - 2-2.風險評鑑與風險處理
@@ -17,6 +18,7 @@
   - 4-2.備援
   - 4-3.營運持續
     - 營運持續管理參考指引v2.0_1111231 
+    - [NIST SP 800-34, Revision 1, Contingency Planning Guide for Federal Information Systems]()
 
 ## 資訊安全技術概論 == > CEH + Security+ (Network+)  == > OSCP | CHFI
 - T1.網路與通訊安全
