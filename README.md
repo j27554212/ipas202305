@@ -1,6 +1,8 @@
 # 上課資訊
-- 5.5 [GOOGLE MEET](https://meet.google.com/spo-pfpw-ctx)
-
+- 5.3(星期三) 晚上6:30-9:20  M2
+- 5.5(星期五) 晚上6:30-9:20 [GOOGLE MEET](https://meet.google.com/spo-pfpw-ctx)
+- 5.6(星期六) 下午 13:30 - 21:20
+- 5.7(星期日) 下午 13:30 - 21:20
 
 # 資訊安全管理 == > ISO 27001:2022  +  CISSP ==> CSSLP
 - 共通規範|安全控制措施參考指引v4.0_1110131
