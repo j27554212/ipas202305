@@ -1,3 +1,7 @@
+# 上課資訊
+- 5.5 [GOOGLE MEET](https://meet.google.com/spo-pfpw-ctx)
+
+
 # 資訊安全管理 == > ISO 27001:2022  +  CISSP ==> CSSLP
 - 共通規範|安全控制措施參考指引v4.0_1110131
 - 共通規範|資通系統防護基準驗證實務(V1.1)_1110928 
