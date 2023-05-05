@@ -2,6 +2,7 @@
 - 5.3(星期三) 晚上6:30-9:20  M2
 - 5.5(星期五) 晚上6:30-9:20 [GOOGLE MEET](https://meet.google.com/spo-pfpw-ctx)
   - [M3-1](https://youtu.be/88O2ny1F14s)
+  - [M3_2_身分鑑別Authentication](https://youtu.be/AoiZcgHX6rw)
 - 5.6(星期六) 下午 13:30 - 21:20
 - 5.7(星期日) 下午 13:30 - 21:20
 
