@@ -1,6 +1,7 @@
 # 上課資訊與教學錄影
 - 5.3(星期三) 晚上6:30-9:20  M2
-- 5.5(星期五) 晚上6:30-9:20 [GOOGLE MEET](https://meet.google.com/spo-pfpw-ctx)
+- 5.5(星期五) 晚上6:30-9:20 
+  - 下午場[GOOGLE MEET](https://meet.google.com/fyg-eydx-mgb)
   - [M3-1](https://youtu.be/88O2ny1F14s)
   - [M3_2_身分鑑別Authentication](https://youtu.be/AoiZcgHX6rw)
   - [M3_3_ACL](https://youtu.be/8ljbwKa_U6Y)
