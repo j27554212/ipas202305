@@ -1,12 +1,12 @@
 # 上課資訊與教學錄影
 - 5.3(星期三) 晚上6:30-9:20  M2
 - 5.5(星期五) 晚上6:30-9:20 
-  - 下午場[GOOGLE MEET](https://meet.google.com/fyg-eydx-mgb)
   - [M3-1](https://youtu.be/88O2ny1F14s)
   - [M3_2_身分鑑別Authentication](https://youtu.be/AoiZcgHX6rw)
   - [M3_3_ACL](https://youtu.be/8ljbwKa_U6Y)
   - [M3_4_考題分析](https://youtu.be/ucRRjn4fnG0)
 - 5.6(星期六) 下午 13:30 - 21:20
+  - 下午場[GOOGLE MEET](https://meet.google.com/fyg-eydx-mgb)
 - 5.7(星期日) 下午 13:30 - 21:20
 
 # 資訊安全管理 == > ISO 27001:2022  +  CISSP ==> CSSLP
